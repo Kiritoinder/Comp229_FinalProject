@@ -34,7 +34,7 @@ namespace Comp229_FinalTeamProject.Controllers
         }
         public ActionResult Contact()
         {
-            ViewBag.Message = "This is my Shopping Cart Page";
+            ViewBag.Message = "This is my Contact Page";
             return View();
         }
     }
