@@ -41,11 +41,6 @@ namespace Comp229_FinalTeamProject.Controllers
         }
 
 
-        [Authorize(Roles = "Administrators")]
-        public ActionResult AdministratorSecrets()
-        {
-            return View();
-        }
 
 
     }
