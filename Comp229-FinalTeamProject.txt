@@ -1,0 +1,18 @@
+
+Inderjeet Singh
+300874118
+
+Khushdial Singh
+300878370
+
+Iqbal Gill
+300878148
+
+Abhinav Sharda
+300868625
+
+Git hub repository for assignment2
+https://github.com/Kiritoinder/Comp229_FinalProject
+
+Azure
+http://finalteamproject.azurewebsites.net/

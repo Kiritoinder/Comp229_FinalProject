@@ -11,7 +11,7 @@ namespace Comp229_FinalTeamProject.Controllers
         // GET: Store
         public ActionResult Index()
         {
-            ViewBag.Message = "This is my Store Index Page";
+            ViewBag.Message = "This is my Store Catalog Page";
             return View();
         }
 
@@ -24,6 +24,12 @@ namespace Comp229_FinalTeamProject.Controllers
         public ActionResult Details(int id)
         {
             ViewBag.Message = HttpUtility.HtmlEncode("Store.Detsils, id= " + id);
+            return View();
+        }
+
+        public ActionResult ShoppingCart()
+        {
+            ViewBag.Message = "This is my Shopping Cart Page";
             return View();
         }
     }

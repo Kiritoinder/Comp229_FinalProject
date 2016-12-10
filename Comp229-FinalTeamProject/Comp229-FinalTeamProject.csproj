@@ -181,7 +181,11 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\150521165141-02-microbiome-foods-restricted-super-169.jpg" />
     <Content Include="Assets\dark-website-backgrounds %281%29.jpg" />
+    <Content Include="Assets\Fancy-Food.jpg" />
+    <Content Include="Assets\healthy-wraps.jpg" />
+    <Content Include="Assets\in-defense-of-processed-foods-graphics-1.jpg" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -261,6 +265,7 @@
     <Content Include="Views\Store\Browse.cshtml" />
     <Content Include="Views\Store\Details.cshtml" />
     <Content Include="Views\Home\IIKASecrets.cshtml" />
+    <Content Include="Views\Store\ShoppingCart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -283,7 +288,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>1210</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
